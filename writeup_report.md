@@ -216,8 +216,7 @@ Image 4: Non-Vehicle
 ![alt text][image38]
 ![alt text][image39]
 
-It is not clear which color space seems to help classifying vehicles and non-vehicles.  
-This will be discussed in the next section.
+I looked at each image and tried to find a clue which color space should be used to train classifier. However, it was not clear. This will be discussed in the next section.
 
 #### 2. Explain how you settled on your final choice of HOG parameters.
 
